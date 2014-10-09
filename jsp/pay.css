@@ -1,0 +1,39 @@
+table { 
+	width:518; 
+	border: 0px solid black;
+	cellpadding:0; 
+	cellspacing:0; 
+	text-align: left;
+	margin-left:auto; 
+    	margin-right:auto;
+}
+
+td.cardRltd{
+colspan:2;
+text-align:left;
+}
+
+td.new{
+colspan:2;
+text-align:left;
+}
+
+form{
+	text-align: center;
+	position:relative;
+	top:10px;
+}
+
+div.mainWindow {
+    position:relative;
+    border: 2px solid #005;
+    width: 800;
+    height:420px;
+    left: 25%;
+    top: 190px;
+    z-index: 1;
+}
+
+body {
+	background-image:url('http://img2.fengniao.com/product/34/486/ce6GTAaXTG2vI.jpg');
+}

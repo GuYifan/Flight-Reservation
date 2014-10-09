@@ -1,0 +1,60 @@
+.ellipseDiv
+{
+  position:relative;
+  top: 50px;
+  height:250px;
+  width:150px;
+  border: 2px solid #005;
+  border-radius:50px / 25px;
+  z-index:1;
+}
+
+.leftDiv {
+    position:relative;
+    background-color: White;
+    display: block;
+    height: 25px;
+    width: 25px;
+    border: 2px solid #005;
+    left: -50px;
+    top: -60px;
+    z-index: 1;
+}
+
+.midDiv {
+    position:relative;
+    background-color: White;
+    display: block;
+    height: 25px;
+    width: 25px;
+    border: 2px solid #005;
+    left: 2px;
+    top: -88px;
+    z-index: 1;
+}
+
+.rightDiv {
+    position:relative;
+    background-color: White;
+    display: block;
+    height: 25px;
+    width: 25px;
+    border: 2px solid #005;
+    left: 50px;
+    top: -117px;
+    z-index: 1;
+}
+
+div.mainWindow {
+    position:relative;
+    border: 2px solid #005;
+    width: 800;
+    height:130px;
+    left: 25%;
+    top: 190px;
+    z-index: 1;
+}
+
+body {
+	background-image:url('http://img2.fengniao.com/product/34/486/ce6GTAaXTG2vI.jpg');
+}

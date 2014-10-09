@@ -1,0 +1,18 @@
+h1 { text-align: center; }
+
+p { text-align: center; }
+
+form { text-align: center; }
+
+div.mainWindow {
+    position:relative;
+    border: 2px solid #005;
+    width: 800;
+    left: 25%;
+    top: 190px;
+    z-index: 1;
+}
+
+body {
+	background-image:url('http://img2.fengniao.com/product/34/486/ce6GTAaXTG2vI.jpg');
+}

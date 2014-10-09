@@ -1,0 +1,42 @@
+body {
+    background-image:url('http://img2.fengniao.com/product/34/486/ce6GTAaXTG2vI.jpg');
+}
+
+div.mainWindow {
+    position:relative;
+    border: 2px solid #005;
+    width: 800;
+    height:130px;
+    left: 25%;
+    top: 190px;
+    z-index: 1;
+}
+
+form {
+    position:relative;
+    top:10px;
+    text-align: center;
+}
+
+table {
+	margin-left:auto; 
+    	margin-right:auto;
+	text-align: center;
+}
+
+input.button {
+    position:relative;
+    top:10px;
+}
+
+button {
+    position:relative;
+    top:10px;
+}
+
+td {
+	border-width: 1px;
+	padding: 1px;
+	border-style: inset;
+	border-color: black;
+}
